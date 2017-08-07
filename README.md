@@ -1,6 +1,7 @@
 # Fluent-bit
 
 Install, configure, and manage Fluent-bit log shipper.
+This module is heavily inspired from https://github.com/soylent/konstantin-fluentd/
 
 ## Module Description
 
